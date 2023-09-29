@@ -10,5 +10,8 @@
   "devDependencies": {
     "@nuxt/content": "^2.8.5",
     "nuxt": "^3.7.4"
+  },
+  "dependencies": {
+    "@nuxt-themes/docus": "^1.14.9"
   }
 }
